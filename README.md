@@ -8,3 +8,9 @@ cd msft
 chmod +x *
 bash msft
 ```
+
+## Requirements
+1) Android 7+
+2) Termux Application
+3) 2GB Free Space recommended
+4) Good Internet Connection
