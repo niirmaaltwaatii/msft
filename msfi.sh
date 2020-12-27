@@ -40,7 +40,7 @@ sleep 2.0
 echo "Moving Metasploit to Home Directory !"
 sleep 1.0
 cd $HOME/../usr/opt
-mv metasploit-framework $HOME
+cp metasploit-framework $HOME
 cd $HOME/metasploit-framework
 echo "Done !"
 
